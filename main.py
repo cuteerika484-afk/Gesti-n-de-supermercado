@@ -1,4 +1,4 @@
-# Trabajo Final Integrador - Laboratorio de Python
+# Trabajo Final Integrador - Laboratorio de Pythonn
 # Algoritmos y Estructuras de Datos - ISI
 # Escenario 12: Gestión de supermercado
 
