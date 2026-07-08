@@ -8,11 +8,7 @@
 # y si tiene o no una promoción simple.
 productos = {
     1: {
-        "nombre": "Arroz 1kg",
-        "precio": 1800.0,
-        "stock": 30,
-        "vendidos": 0,
-        "promo": False
+        
     },
     2: {
         "nombre": "Leche 1L",
